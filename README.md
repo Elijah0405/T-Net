@@ -7,6 +7,7 @@ Here, we upload the related resources and training results of different structur
 Email address: liujingqi@nieer.ac.cn
 
 2024-12-24 update
+
 I am pleased to inform you that the dataset in the paper has been made publicly available on the National Cryosphere Desert Data Center’s website. You can access it via the following link:
 https://www.ncdc.ac.cn/portal/metadata/2714e3f1-dd9c-46fc-af78-0d42aec78af1
 Currently, the dataset is available for public download through the FTP link provided on the site. When using the data, please make sure to properly reference it. The citation format is as follows:
