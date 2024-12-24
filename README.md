@@ -6,7 +6,8 @@ Hello, here is the T-Net repository, we will put all of our materials and models
 Here, we upload the related resources and training results of different structural models, but the datasets is too big to upload. Connecting me if you need. 
 Email address: liujingqi@nieer.ac.cn
 
-2024-12-24 update
+
+2024-12-24 Update
 
 I am pleased to inform you that the dataset in the paper has been made publicly available on the National Cryosphere Desert Data Center’s website. You can access it via the following link:
 https://www.ncdc.ac.cn/portal/metadata/2714e3f1-dd9c-46fc-af78-0d42aec78af1
